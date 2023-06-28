@@ -1,0 +1,11 @@
+*.wad
+*.bsp
+*.pts
+*.prt
+*.texinfo
+*.lit
+*.log
+*.txt
+*-compile*
+autosave
+zqf
